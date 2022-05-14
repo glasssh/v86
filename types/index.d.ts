@@ -1,4 +1,4 @@
-declare module v86 {
+declare module "@glasssh/v86" {
 
   /** set when v86 is built with debug mode enabled */
   declare let DEBUG: boolean | undefined;
